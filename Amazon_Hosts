@@ -1,4 +1,4 @@
-# Title: HaGeZi's Amazon Tracker DNS Blocklist
+# Title:Amazon Tracker DNS Blocklist
 # Description: Blocks Amazon native broadband tracker that track your activity.
 
 0.0.0.0 3px.axp.amazon-adsystem.com
